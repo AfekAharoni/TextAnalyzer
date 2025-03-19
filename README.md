@@ -2,6 +2,9 @@
 
 [![Text Analyzer Logo](https://raw.githubusercontent.com/AfekAharoni/TextAnalyzer/main/TextAnalyzer/Logo.png)](https://www.youtube.com/watch?v=A4ODWKm39ek)
 
+## Video:
+https://www.youtube.com/watch?v=A4ODWKm39ek
+
 ## Extensions:
 
 * Extension 8 - Checking for fixed-length paths between people in a graph, without repeating nodes, to see if a specific path length exists.
