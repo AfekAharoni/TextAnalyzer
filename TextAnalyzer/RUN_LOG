@@ -1,0 +1,21 @@
+# 00:00 
+# Introduction
+
+# 00:30
+# Files structures + Example of usage of Task 1 class (TextPreprocessing) in Task 3 class (PeopleMentions)
+
+# 01:03
+# Quality & Coverage + Example of type annotations usage
+
+# 01:32
+# Implementions of what I learned in the course - Examples of OOP, decorator, list & dict comprehensions, exceptions, lambda, **kwargs
+
+# 2:43
+# Code Review - Task 4 Execution -> main.py / input_validator.py / task4.py - O(1) complexity explained / constants.py
+python main.py -t 4 -s task4example\sentences_small_1.csv -r task4example\REMOVEWORDS.csv --qsek_query_path task4example\kseq_query_keys_1.json
+
+# 03:55
+# BFS Algorithm + __check_if_pair_connected from task7_task8.py as example
+
+# 4:15
+# Extensions - 8 & 9 + Runtime measurments 
