@@ -1,9 +1,6 @@
 # Text Analyzer Project / Afek Aharoni / afek.aharoni / 214143414
 
-![Text Analyzer](https://github.com/AfekAharoni/TextAnalyzer/blob/main/TextAnalyzer/Logo.png?raw=true)
-
-[![Presentation](https://img.youtube.com/vi/A4ODWKm39ek/0.jpg)](https://www.youtube.com/watch?v=A4ODWKm39ek)
-
+[![Text Analyzer Logo](https://raw.githubusercontent.com/AfekAharoni/TextAnalyzer/main/TextAnalyzer/Logo.png)](https://www.youtube.com/watch?v=A4ODWKm39ek)
 
 ## Extensions:
 
