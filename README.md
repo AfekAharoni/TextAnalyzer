@@ -1,8 +1,11 @@
 # Text Analyzer Project / Afek Aharoni / afek.aharoni / 214143414
 
+📊 **Final Grade: 99/100**
+
 [![Text Analyzer Logo](https://raw.githubusercontent.com/AfekAharoni/TextAnalyzer/main/TextAnalyzer/Logo.png)](https://www.youtube.com/watch?v=A4ODWKm39ek)
 
 ## Video:
+Watch the project overview and explanation here:  
 https://www.youtube.com/watch?v=A4ODWKm39ek
 
 ## Extensions:
